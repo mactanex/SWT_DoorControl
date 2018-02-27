@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("DoorControl.Impl")]
+[assembly: AssemblyTitle("DoorControl.Imple")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("DoorControl.Impl")]
+[assembly: AssemblyProduct("DoorControl.Imple")]
 [assembly: AssemblyCopyright("Copyright ©  2018")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("a6e9b650-c42b-466d-a2cc-31bd196dc752")]
+[assembly: Guid("3435ac59-1f9d-4bfb-b968-c258cd944199")]
 
 // Version information for an assembly consists of the following four values:
 //
